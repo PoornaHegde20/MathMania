@@ -1,1 +1,1 @@
-# MathMania
+**<h1>MathMania</h1>**  <h2>This is an *interactive* website for kids to learn mathematics in a fun and motivating manner, using *gamification* elements like *score points* and *quizzes*.</h2>   <h3>**Built using**: HTML5, CSS, JavaScript.<br />  **Created for**: LevelUp Hackathon, conducted by ShowCode. <br /> **Owners**: Shreya Kumar and Poorna Hegde.</h3>
